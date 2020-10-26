@@ -1,0 +1,6 @@
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/exercises/exercise7/bin/Debug/exercise7.exe
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/exercises/exercise7/bin/Debug/exercise7.pdb
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/exercises/exercise7/obj/Debug/exercise7.csproj.CoreCompileInputs.cache
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/exercises/exercise7/obj/Debug/exercise7.exe
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/exercises/exercise7/obj/Debug/exercise7.pdb
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/exercises/exercise7/obj/Debug/exercise7.csprojAssemblyReference.cache
